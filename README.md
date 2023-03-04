@@ -1,4 +1,4 @@
-# TypeScript React App | TypeScript course project
+# To-do React App | TypeScript course project
 
 **Stack:**
 1. TypeScript
