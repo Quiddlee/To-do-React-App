@@ -11,6 +11,7 @@ form {
 label, input {
   display: block;
   width: 100%;
+  height: 2rem;
 }
 
 label {
@@ -21,6 +22,7 @@ input {
   font: inherit;
   border: 1px solid #ccc;
   padding: 0.25rem;
+  padding-left: 1rem;
 }
 
 input:focus {
@@ -34,6 +36,8 @@ button {
   color: white;
   padding: 0.5rem 1.5rem;
   cursor: pointer;
+  transition: all .2s;
+  height: 2.4rem;
 }
 
 button:focus {
